@@ -1,1 +1,1 @@
-Here is the sites for the code that I found "https://stackoverflow.com/questions/34006994/how-to-upload-multiple-images-to-a-blog-post-in-django" , and "https://roytuts.com/how-to-create-photo-gallery-with-django/"
+
